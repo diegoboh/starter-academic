@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Diego Bohorquez
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. student in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universitat Pompeu Fabra
+  url: "https://www.upf.edu/web/econ"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blah
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- International Macroeconomics
+- Financial regulation
+- Monetary Policy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: Universitat Pompeu Fabra
+    year: 2023 (expected)
+  - course: Master of Research
+    institution: Universitat Pompeu Fabra
+    year: 2020
+  - course: MSc in Economics and Finance
+    institution: Universitat Pompeu Fabra
+    year: 2019
+  - course: BSc in Economics
+    institution: Universidad del Pacífico
+    year: 2014    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,10 +47,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:diego.bohorquez@upf.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/diegoebm
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
