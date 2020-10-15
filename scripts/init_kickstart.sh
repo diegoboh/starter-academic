@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 
 # WARNING: this will reset the project to the Kickstart template!
 
