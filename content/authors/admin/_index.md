@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Diego Bohoraaaaquez
+title: Diego Bohorquez
 
 # Username (this should match the folder name)
 authors:
