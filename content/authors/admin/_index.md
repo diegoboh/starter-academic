@@ -18,7 +18,7 @@ organizations:
   url: "https://www.upf.edu/web/econ"
 
 # Short bio (displayed in user profile at end of posts)
-about: I am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blah
+about: ssI am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blah
 
 interests:
 - International Macroeconomics
