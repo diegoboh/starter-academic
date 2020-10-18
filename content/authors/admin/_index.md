@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blah
+gerI am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blah
