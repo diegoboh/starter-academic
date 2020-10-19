@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Diego Bohorquezf
+title: Diego Bohorquezff
 
 # Username (this should match the folder name)
 authors:
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:diego.bohorquez@upf.edu"  # For a direct email link, use "mailto:diego.bohorquez@upf.edu".
+  link: mailto:diego.bohorquez@upf.edu  # For a direct email link, use "mailto:diego.bohorquez@upf.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/diegoebm
