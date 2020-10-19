@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Diego Bohorquez
+title: Diego Bohorquezf
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.upf.edu/web/econ"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ssI am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blah
+bio: ssIaa am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blah
 
 interests:
 - International Macroeconomics
