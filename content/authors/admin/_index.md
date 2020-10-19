@@ -64,7 +64,7 @@ social:
    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "diego.bohorquez@upf.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-gerI am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blah
+gerIss am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blah
