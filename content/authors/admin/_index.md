@@ -7,8 +7,7 @@ authors:
   - admin
 title: Diego Bohorquezffff
 role: Ph.D. student in Economics
-bio: ssIaa am interested in International macroeconomics and financial
-  regulation. I am currently a research assistant blah blah
+bio: ""
 interests:
   - International Macroeconomics
   - Financial regulation
