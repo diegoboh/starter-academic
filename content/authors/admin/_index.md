@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in economics at ({{< ref "https://www.upf.edu/web/econ" >}} "Universitat Pompeu Fabra"), interested mainly in international macroeconomics, macro-finance and financial regulation. I also work as a research and teaching assistant at the Economics Department.
+I am a PhD student in economics at asdd, interested mainly in international macroeconomics, macro-finance and financial regulation. I also work as a research and teaching assistant at the Economics Department.
