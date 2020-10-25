@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Diego Bohorquezf
+title: Diego Bohorquez
 
 # Username (this should match the folder name)
 authors:
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in economics at Universitat Pompeu Fabra, interested mainly in international macroeconomics, macro-finance and financial regulation.
+I am a PhD student in economics at Universitat Pompeu Fabra, interested mainly in international macroeconomics, macro-finance and financial regulation. I also work as a research and teaching assistant at the Economics Department.
