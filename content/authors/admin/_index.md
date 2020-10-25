@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-gerIss am interested in International macroeconomics and financial regulation. I am currently a research assistant blah blahgggg
+I am a PhD student in economics at Universitat Pompeu Fabra, interested mainly in international macroeconomics, macro-finance and financial regulation.
