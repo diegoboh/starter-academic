@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in economics at aAsdd, interested mainly in international macroeconomics, macro-finance and financial regulation. I also work as a research and teaching assistant at the Economics Department.
+I am a PhD student in economics at aAsdd, interested mainly in international macroeconomics, macro-finance and financial regulation. I also work as a research and teaching assistant at the Economics Department.bb
