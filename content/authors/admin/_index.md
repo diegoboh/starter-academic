@@ -45,4 +45,4 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-I am a PhD student in economics at Universitat Poaaaaampeu Fabra, interested mainly in international macroeconomics, macro-finance and financial regulation. I also work as a research and teaching assistant at the Economics Department.bb
+I am a PhD student in economics at Universitat Poaaaapeu Fabra, interested mainly in international macroeconomics, macro-finance and financial regulation. I also work as a research and teaching assistant at the Economics Department.bb
